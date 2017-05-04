@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AltotechDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="openvoicerecognizer">开始识别</string>
+    <string name="sendData">sendData</string>
+    <string name="sendFile">sendFile</string>
+
+</resources>
